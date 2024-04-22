@@ -132,7 +132,7 @@ pm2 start dist/server.js --name whaticket-backend
 Make pm2 auto start after reboot:
 
 ```bash
-pm2 startup ubuntu -u `deploy`
+pm2 startup ubuntu -u deploy
 ```
 
 Copy the last line outputed from previus command and run it, its something like:
