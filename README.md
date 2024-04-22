@@ -77,7 +77,7 @@ Clone this repository:
 
 ```bash
 cd ~
-git clone https://github.com/dollyzn/whaticket-cero whaticket
+git clone https://github.com/edilsonlsouza/whaticket-hostcel whaticket
 ```
 
 Create backend .env file and fill with details:
