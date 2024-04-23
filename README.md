@@ -22,7 +22,7 @@ If a contact sent a new message in less than 2 hours interval, and there is no t
 
 ### Using Ubuntu 22.04 VPS
 
-All instructions below assumes you are NOT running as root, since it will give an error in puppeteer. So let's start creating a new user and granting sudo privileges to it:
+All instructions below assume you are NOT running as root, since it will give an error in puppeteer. So let's start by creating a new user and granting sudo privileges to it on the suggested Virtual Private Server (VPS) with 4 CPUs, 8GB RAM, and an 80GB SSD.
 
 ```bash
 adduser deploy
